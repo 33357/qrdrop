@@ -34,6 +34,7 @@ QRdrop 是一个创新的 Web3 空投解决方案，通过二维码让代币分�
 - **网站**：https://qrdrop.xyz
 - **合约仓库**：https://github.com/33357/qrdrop-core
 - **合约地址** https://etherscan.io/address/0xa6c3cb1465730b0aa2a0d9b6e210f8dab5ac448d
+https://bscscan.com/address/0xa6fdb1859a17fbaa5ff97ea0eabc84deab6499eb
 
 ## 演示视频
 
