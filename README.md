@@ -41,7 +41,7 @@ https://youtu.be/slsYEs4wL6I
 
 ## PPT
 
-https://docs.google.com/presentation/d/1dleYy7nsXKZ733pOTJBFNJF4GRyrD0ok/edit?usp=drive_link&ouid=100635198094341414461&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1dleYy7nsXKZ733pOTJBFNJF4GRyrD0ok/edit?usp=sharing&ouid=100635198094341414461&rtpof=true&sd=true
 
 ## 贡献
 
