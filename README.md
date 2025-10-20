@@ -39,6 +39,10 @@ QRdrop 是一个创新的 Web3 空投解决方案，通过二维码让代币分�
 
 https://youtu.be/slsYEs4wL6I
 
+## PPT
+
+https://docs.google.com/presentation/d/1dleYy7nsXKZ733pOTJBFNJF4GRyrD0ok/edit?usp=drive_link&ouid=100635198094341414461&rtpof=true&sd=true
+
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
