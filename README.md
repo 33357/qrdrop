@@ -27,26 +27,18 @@ QRdrop 是一个创新的 Web3 空投解决方案，通过二维码让代币分�
 
 ## 成员
 
-33357
+[33357](https://github.com/33357)
 
 ## 相关链接
 
-- 🔗 **网站**：[https://qrdrop.xyz](https://qrdrop.xyz)
-- 📦 **合约仓库**：[https://github.com/33357/qrdrop-contract](https://github.com/33357/qrdrop-contract)
-- 📖 **文档**：敬请期待
-- 💬 **社区**：敬请期待
+- **网站**：https://qrdrop.xyz
+- **合约仓库**：https://github.com/33357/qrdrop-contract
+- **合约地址** https://etherscan.io/address/0xa6c3cb1465730b0aa2a0d9b6e210f8dab5ac448d
 
-## 演示
+## 演示视频
 
-TODO: 添加演示视频或截图
+https://youtu.be/slsYEs4wL6I
 
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
-
-## 联系方式
-
-如有问题或建议，请通过以下方式联系：
-- GitHub Issues
-- 项目网站留言
-
